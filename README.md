@@ -3,4 +3,4 @@
 
 ### 目录
 - [第1章：快速入手](https://github.com/RosterMouch/C_and_Poiner/tree/master/chap1)
-- [第二章：基本概念](https://github.com/RosterMouch/C_and_Poiner/tree/master/chap2)
+- [第2章：基本概念](https://github.com/RosterMouch/C_and_Poiner/tree/master/chap2)
