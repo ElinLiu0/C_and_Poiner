@@ -1,3 +1,10 @@
 *.o
 *.exe
 *.obj
+*.suo
+*.vsidx
+*.lock
+*.db
+*.ipch
+*.json
+*sqlite
