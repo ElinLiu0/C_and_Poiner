@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\chap5"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\chap5\\expressionOperator.c",
   "PreviewInSolutionExplorer": false
 }
