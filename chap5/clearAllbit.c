@@ -13,6 +13,6 @@ int clear_bits(unsigned value)
 int main(void)
 {
 	const int number = 0x2;
-	printf("Çå¿ÕÎ»ºóµÄ½á¹û£º%d\n", number);
+	printf("ï¿½ï¿½ï¿½Î»ï¿½ï¿½Ä½ï¿½ï¿½ï¿½ï¿½%d\n", number);
 	return 0;
 }
